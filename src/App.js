@@ -1,5 +1,5 @@
 import React, { useContext } from 'react';
-import { BrowserRouter, Navigate, HashRouter as Router, Route, Routes } from 'react-router-dom';
+import { Navigate, HashRouter as Router, Route, Routes } from 'react-router-dom';
 import { GlobalContext } from './context/GlobalState';
 import HomePage from './components/home/HomePage';
 import ItemDetail from './components/itemDetail/ItemDetail';
