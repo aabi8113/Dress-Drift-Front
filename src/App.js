@@ -15,7 +15,7 @@ function App() {
 
   return (
     <div className="App">
-      <BrowserRouter>
+      <BrowserRouter basename='/Dress-Drift-Front'>
         <Navbar />
         <Routes>
           {isAuthenticated ? (
