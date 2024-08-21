@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Dress-Drift-Front/static/css/main.f317c336.css",
-    "main.js": "/Dress-Drift-Front/static/js/main.1d002d63.js",
+    "main.js": "/Dress-Drift-Front/static/js/main.a80ca8a7.js",
     "index.html": "/Dress-Drift-Front/index.html",
     "main.f317c336.css.map": "/Dress-Drift-Front/static/css/main.f317c336.css.map",
-    "main.1d002d63.js.map": "/Dress-Drift-Front/static/js/main.1d002d63.js.map"
+    "main.a80ca8a7.js.map": "/Dress-Drift-Front/static/js/main.a80ca8a7.js.map"
   },
   "entrypoints": [
     "static/css/main.f317c336.css",
-    "static/js/main.1d002d63.js"
+    "static/js/main.a80ca8a7.js"
   ]
 }

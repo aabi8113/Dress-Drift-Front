@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from "react";
 import axios from "axios";
 import ItemList from "../itemList/ItemList";
+import './HomePage.css'
 
 function HomePage() {
   const [items, setItems] = useState([]);
